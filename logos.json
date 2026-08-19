@@ -38928,6 +38928,14 @@
       {
         "filename": "daeunassetlogo-8.svg",
         "variant": "default"
+      },
+      {
+        "filename": "daeunassetlogo-1.svg",
+        "variant": "default"
+      },
+      {
+        "filename": "daeunassetlogo-icon.svg",
+        "variant": "icon"
       }
     ]
   },
