@@ -38891,6 +38891,19 @@
     ]
   },
   {
+    "name": "Daeunassetlogo",
+    "shortname": "daeunassetlogo",
+    "url": "",
+    "collection": "simple",
+    "source": "custom",
+    "files": [
+      {
+        "filename": "daeunassetlogo.svg",
+        "variant": "default"
+      }
+    ]
+  },
+  {
     "name": "DAF",
     "shortname": "daf",
     "url": "https://www.daf.com/en",
