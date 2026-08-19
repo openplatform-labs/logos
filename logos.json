@@ -38936,6 +38936,18 @@
       {
         "filename": "daeunassetlogo-icon.svg",
         "variant": "icon"
+      },
+      {
+        "filename": "daeunassetlogo-9.svg",
+        "variant": "default"
+      },
+      {
+        "filename": "daeunassetlogo-10.svg",
+        "variant": "default"
+      },
+      {
+        "filename": "daeunassetlogo-11.svg",
+        "variant": "default"
       }
     ]
   },

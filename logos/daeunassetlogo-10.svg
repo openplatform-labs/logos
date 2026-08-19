@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 132" width="132" height="132" role="img" aria-label="대운에셋 심볼 DA">
-  <title>대운에셋 심볼 · gradient-duo</title>
-  <defs><linearGradient id="g-gradient-duo" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E6007E"/><stop offset="1" stop-color="#141B4D"/></linearGradient></defs>
-  <circle cx="66" cy="66" r="62" fill="url(#g-gradient-duo)"/>
+  <title>대운에셋 심볼 · solid</title>
+  <circle cx="66" cy="66" r="62" fill="#E6007E"/>
   <path d="M22.51 91V41H36.87Q44.52 41 50.19 43.58Q55.87 46.17 59.02 51.6Q62.17 57.04 62.17 65.77Q62.17 74.42 59.05 80.03Q55.93 85.63 50.4 88.32Q44.86 91 37.54 91ZM34.52 81.34H36.13Q40.16 81.34 43.28 79.93Q46.4 78.52 48.15 75.09Q49.89 71.67 49.89 65.77Q49.89 59.79 48.15 56.5Q46.4 53.21 43.28 51.91Q40.16 50.6 36.13 50.6H34.52ZM64.12 91 79.62 41H93.99L109.49 91H96.87L90.63 66.03Q89.62 62.28 88.65 58.05Q87.68 53.82 86.67 49.99H86.4Q85.53 53.89 84.52 58.08Q83.52 62.28 82.58 66.03L76.34 91ZM74.66 79.52V70.26H98.82V79.52Z" fill="#FFFFFF"/>
 </svg>
