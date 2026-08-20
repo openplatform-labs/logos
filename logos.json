@@ -113619,11 +113619,11 @@
     "shortname": "supabase",
     "url": "https://supabase.com/",
     "collection": "themed",
-    "source": "gilbarbara",
+    "source": "custom",
     "files": [
       {
         "filename": "supabase-icon.svg",
-        "variant": "icon"
+        "variant": "mono"
       },
       {
         "filename": "supabase-wordmark-icon.svg",
@@ -113636,44 +113636,26 @@
       {
         "filename": "supabase.svg",
         "variant": "default"
-      }
-    ]
-  },
-  {
-    "name": "Supabase (2)",
-    "shortname": "supabase-2",
-    "url": "https://techicons.dev/icons/supabase",
-    "collection": "themed",
-    "source": "devicon",
-    "files": [
-      {
-        "filename": "supabase-2-icon.svg",
-        "variant": "icon"
-      },
-      {
-        "filename": "supabase-2-wordmark-icon.svg",
-        "variant": "mono"
-      },
-      {
-        "filename": "supabase-2-wordmark.svg",
-        "variant": "wordmark"
       },
       {
         "filename": "supabase-2.svg",
         "variant": "default"
-      }
-    ]
-  },
-  {
-    "name": "Supabase (Brand Kit)",
-    "shortname": "supabase-brand-kit",
-    "url": "https://supabase.com/",
-    "collection": "themed",
-    "source": "thesvg",
-    "files": [
+      },
       {
-        "filename": "supabase-wordmark.svg",
-        "variant": "wordmark"
+        "filename": "supabase-3.svg",
+        "variant": "default"
+      },
+      {
+        "filename": "supabase-4.svg",
+        "variant": "default"
+      },
+      {
+        "filename": "supabase-5.svg",
+        "variant": "default"
+      },
+      {
+        "filename": "supabase-6.svg",
+        "variant": "default"
       },
       {
         "filename": "supabase-wordmarkDark.svg",
