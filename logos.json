@@ -130416,107 +130416,6 @@
     ]
   },
   {
-    "name": "YouTube",
-    "shortname": "youtube",
-    "url": "https://www.youtube.com/",
-    "collection": "simple",
-    "source": "gilbarbara",
-    "files": [
-      {
-        "filename": "youtube-icon.svg",
-        "variant": "icon"
-      },
-      {
-        "filename": "youtube.svg",
-        "variant": "default"
-      }
-    ]
-  },
-  {
-    "name": "YouTube (Brand Kit)",
-    "shortname": "youtube-brand-kit",
-    "url": "https://www.youtube.com/",
-    "collection": "themed",
-    "source": "thesvg",
-    "files": [
-      {
-        "filename": "youtube-wordmark.svg",
-        "variant": "wordmark"
-      },
-      {
-        "filename": "youtube-wordmarkDark.svg",
-        "variant": "wordmarkDark"
-      },
-      {
-        "filename": "youtube-wordmarkLight.svg",
-        "variant": "wordmarkLight"
-      }
-    ]
-  },
-  {
-    "name": "YouTube Gaming",
-    "shortname": "youtube-gaming",
-    "url": "https://gaming.youtube.com",
-    "collection": "themed",
-    "source": "thesvg",
-    "files": [
-      {
-        "filename": "youtube-gaming-icon.svg",
-        "variant": "mono"
-      },
-      {
-        "filename": "youtube-gaming.svg",
-        "variant": "default"
-      }
-    ]
-  },
-  {
-    "name": "YouTube Kids",
-    "shortname": "youtube-kids",
-    "url": "https://www.youtube.com/intl/ALL_us/kids",
-    "collection": "themed",
-    "source": "thesvg",
-    "files": [
-      {
-        "filename": "youtube-kids-icon.svg",
-        "variant": "mono"
-      },
-      {
-        "filename": "youtube-kids.svg",
-        "variant": "default"
-      }
-    ]
-  },
-  {
-    "name": "YouTube Music",
-    "shortname": "youtube-music",
-    "url": "https://music.youtube.com/",
-    "collection": "themed",
-    "source": "thesvg",
-    "files": [
-      {
-        "filename": "youtube-music-icon.svg",
-        "variant": "mono"
-      },
-      {
-        "filename": "youtube-music-wordmark.svg",
-        "variant": "wordmark"
-      },
-      {
-        "filename": "youtube-music-wordmarkDark.svg",
-        "variant": "wordmarkDark"
-      },
-      {
-        "filename": "youtube-music-wordmarkLight.svg",
-        "variant": "wordmarkLight"
-      },
-      {
-        "filename": "youtube-music.svg",
-        "variant": "default"
-      }
-    ]
-  },
-  {
     "name": "YouTube Shorts",
     "shortname": "youtube-shorts",
     "url": "https://www.youtube.com/shorts",
@@ -130529,6 +130428,62 @@
       },
       {
         "filename": "youtube-shorts.svg",
+        "variant": "default"
+      },
+      {
+        "filename": "youtube-shorts-2.svg",
+        "variant": "default"
+      },
+      {
+        "filename": "youtube-shorts-wordmark.svg",
+        "variant": "wordmark"
+      },
+      {
+        "filename": "youtube-shorts-wordmarkDark.svg",
+        "variant": "wordmarkDark"
+      },
+      {
+        "filename": "youtube-shorts-wordmarkLight.svg",
+        "variant": "wordmarkLight"
+      },
+      {
+        "filename": "youtube-shorts-3.svg",
+        "variant": "default"
+      },
+      {
+        "filename": "youtube-shorts-4.svg",
+        "variant": "default"
+      },
+      {
+        "filename": "youtube-shorts-5.svg",
+        "variant": "default"
+      },
+      {
+        "filename": "youtube-shorts-6.svg",
+        "variant": "default"
+      },
+      {
+        "filename": "youtube-shorts-7.svg",
+        "variant": "default"
+      },
+      {
+        "filename": "youtube-shorts-youtube-wordmark.svg",
+        "variant": "wordmark"
+      },
+      {
+        "filename": "youtube-shorts-youtube-wordmarkDark.svg",
+        "variant": "wordmarkDark"
+      },
+      {
+        "filename": "youtube-shorts-youtube-wordmarkLight.svg",
+        "variant": "wordmarkLight"
+      },
+      {
+        "filename": "youtube-shorts-8.svg",
+        "variant": "default"
+      },
+      {
+        "filename": "youtube-shorts-9.svg",
         "variant": "default"
       }
     ]
