@@ -130485,39 +130485,21 @@
       {
         "filename": "youtube-shorts-9.svg",
         "variant": "default"
-      }
-    ]
-  },
-  {
-    "name": "YouTube Studio",
-    "shortname": "youtube-studio",
-    "url": "https://www.youtube.com",
-    "collection": "themed",
-    "source": "thesvg",
-    "files": [
-      {
-        "filename": "youtube-studio-icon.svg",
-        "variant": "mono"
       },
       {
-        "filename": "youtube-studio.svg",
+        "filename": "youtube-shorts-10.svg",
         "variant": "default"
-      }
-    ]
-  },
-  {
-    "name": "YouTube TV",
-    "shortname": "youtube-tv",
-    "url": "https://partnermarketinghub.withgoogle.com/#/brands",
-    "collection": "themed",
-    "source": "thesvg",
-    "files": [
-      {
-        "filename": "youtube-tv-icon.svg",
-        "variant": "mono"
       },
       {
-        "filename": "youtube-tv.svg",
+        "filename": "youtube-shorts-11.svg",
+        "variant": "default"
+      },
+      {
+        "filename": "youtube-shorts-12.svg",
+        "variant": "default"
+      },
+      {
+        "filename": "youtube-shorts-13.svg",
         "variant": "default"
       }
     ]
