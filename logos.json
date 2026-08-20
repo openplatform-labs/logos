@@ -93,23 +93,6 @@
     ]
   },
   {
-    "name": "1&1",
-    "shortname": "1and1",
-    "url": "https://www.united-internet.de/en/newsroom/media-center/logos.html",
-    "collection": "themed",
-    "source": "thesvg",
-    "files": [
-      {
-        "filename": "1and1-icon.svg",
-        "variant": "mono"
-      },
-      {
-        "filename": "1and1.svg",
-        "variant": "default"
-      }
-    ]
-  },
-  {
     "name": "1.1.1.1",
     "shortname": "1dot1dot1dot1",
     "url": "https://one.one.one.one",
@@ -122,6 +105,23 @@
       },
       {
         "filename": "1dot1dot1dot1.svg",
+        "variant": "default"
+      }
+    ]
+  },
+  {
+    "name": "1&1",
+    "shortname": "1and1",
+    "url": "https://www.united-internet.de/en/newsroom/media-center/logos.html",
+    "collection": "themed",
+    "source": "thesvg",
+    "files": [
+      {
+        "filename": "1and1-icon.svg",
+        "variant": "mono"
+      },
+      {
+        "filename": "1and1.svg",
         "variant": "default"
       }
     ]
@@ -19372,19 +19372,6 @@
     ]
   },
   {
-    "name": "AWS IoT HTTP2 Protocol",
-    "shortname": "aws-res-aws-iot-http2-protocol",
-    "url": "",
-    "collection": "themed",
-    "source": "thesvg",
-    "files": [
-      {
-        "filename": "aws-res-aws-iot-http2-protocol.svg",
-        "variant": "default"
-      }
-    ]
-  },
-  {
     "name": "AWS IoT HTTP_Protocol",
     "shortname": "aws-res-aws-iot-http-protocol",
     "url": "",
@@ -19393,6 +19380,19 @@
     "files": [
       {
         "filename": "aws-res-aws-iot-http-protocol.svg",
+        "variant": "default"
+      }
+    ]
+  },
+  {
+    "name": "AWS IoT HTTP2 Protocol",
+    "shortname": "aws-res-aws-iot-http2-protocol",
+    "url": "",
+    "collection": "themed",
+    "source": "thesvg",
+    "files": [
+      {
+        "filename": "aws-res-aws-iot-http2-protocol.svg",
         "variant": "default"
       }
     ]
@@ -25952,6 +25952,31 @@
     ]
   },
   {
+    "name": "Bēhance",
+    "shortname": "behance",
+    "url": "https://www.behance.net/",
+    "collection": "themed",
+    "source": "gilbarbara",
+    "files": [
+      {
+        "filename": "behance-icon.svg",
+        "variant": "icon"
+      },
+      {
+        "filename": "behance-wordmark-icon.svg",
+        "variant": "mono"
+      },
+      {
+        "filename": "behance-wordmark.svg",
+        "variant": "wordmark"
+      },
+      {
+        "filename": "behance.svg",
+        "variant": "default"
+      }
+    ]
+  },
+  {
     "name": "Behance (2)",
     "shortname": "behance-2",
     "url": "https://techicons.dev/icons/behance",
@@ -29451,31 +29476,6 @@
       },
       {
         "filename": "bytedance.svg",
-        "variant": "default"
-      }
-    ]
-  },
-  {
-    "name": "Bēhance",
-    "shortname": "behance",
-    "url": "https://www.behance.net/",
-    "collection": "themed",
-    "source": "gilbarbara",
-    "files": [
-      {
-        "filename": "behance-icon.svg",
-        "variant": "icon"
-      },
-      {
-        "filename": "behance-wordmark-icon.svg",
-        "variant": "mono"
-      },
-      {
-        "filename": "behance-wordmark.svg",
-        "variant": "wordmark"
-      },
-      {
-        "filename": "behance.svg",
         "variant": "default"
       }
     ]
@@ -48485,23 +48485,6 @@
     ]
   },
   {
-    "name": "F#",
-    "shortname": "fsharp",
-    "url": "http://fsharp.org/",
-    "collection": "simple",
-    "source": "gilbarbara",
-    "files": [
-      {
-        "filename": "fsharp-icon.svg",
-        "variant": "icon"
-      },
-      {
-        "filename": "fsharp.svg",
-        "variant": "default"
-      }
-    ]
-  },
-  {
     "name": "F-Droid",
     "shortname": "f-droid",
     "url": "https://f-droid.org",
@@ -48514,6 +48497,23 @@
       },
       {
         "filename": "f-droid.svg",
+        "variant": "default"
+      }
+    ]
+  },
+  {
+    "name": "F#",
+    "shortname": "fsharp",
+    "url": "http://fsharp.org/",
+    "collection": "simple",
+    "source": "gilbarbara",
+    "files": [
+      {
+        "filename": "fsharp-icon.svg",
+        "variant": "icon"
+      },
+      {
+        "filename": "fsharp.svg",
         "variant": "default"
       }
     ]
@@ -63115,6 +63115,19 @@
     ]
   },
   {
+    "name": "Île-de-France Mobilités",
+    "shortname": "ile-de-france-mobilites",
+    "url": "https://www.iledefrance-mobilites.fr",
+    "collection": "themed",
+    "source": "thesvg",
+    "files": [
+      {
+        "filename": "ile-de-france-mobilites.svg",
+        "variant": "default"
+      }
+    ]
+  },
+  {
     "name": "Illustrator",
     "shortname": "illustrator",
     "url": "https://www.adobe.com/products/illustrator",
@@ -77153,23 +77166,6 @@
     ]
   },
   {
-    "name": "MCP (Model Context Protocol)",
-    "shortname": "mcp-model-context-protocol",
-    "url": "https://modelcontextprotocol.io",
-    "collection": "themed",
-    "source": "thesvg",
-    "files": [
-      {
-        "filename": "mcp-model-context-protocol-icon.svg",
-        "variant": "mono"
-      },
-      {
-        "filename": "mcp-model-context-protocol.svg",
-        "variant": "default"
-      }
-    ]
-  },
-  {
     "name": "MCP - Model Context Protocol",
     "shortname": "mcp",
     "url": "https://modelcontextprotocol.io/",
@@ -77182,6 +77178,23 @@
       },
       {
         "filename": "model-context-protocol.svg",
+        "variant": "default"
+      }
+    ]
+  },
+  {
+    "name": "MCP (Model Context Protocol)",
+    "shortname": "mcp-model-context-protocol",
+    "url": "https://modelcontextprotocol.io",
+    "collection": "themed",
+    "source": "thesvg",
+    "files": [
+      {
+        "filename": "mcp-model-context-protocol-icon.svg",
+        "variant": "mono"
+      },
+      {
+        "filename": "mcp-model-context-protocol.svg",
         "variant": "default"
       }
     ]
@@ -78321,6 +78334,19 @@
     ]
   },
   {
+    "name": "Métro de Paris",
+    "shortname": "metro-de-paris",
+    "url": "https://www.ratp.fr/se-deplacer/metro",
+    "collection": "themed",
+    "source": "thesvg",
+    "files": [
+      {
+        "filename": "metro-de-paris.svg",
+        "variant": "default"
+      }
+    ]
+  },
+  {
     "name": "MeWe",
     "shortname": "mewe",
     "url": "https://mewe.com",
@@ -78406,23 +78432,6 @@
     ]
   },
   {
-    "name": "Micro.blog",
-    "shortname": "microdotblog",
-    "url": "https://help.micro.blog",
-    "collection": "themed",
-    "source": "thesvg",
-    "files": [
-      {
-        "filename": "microdotblog-icon.svg",
-        "variant": "mono"
-      },
-      {
-        "filename": "microdotblog.svg",
-        "variant": "default"
-      }
-    ]
-  },
-  {
     "name": "micro:bit",
     "shortname": "micro-bit",
     "url": "https://microbit.org",
@@ -78435,6 +78444,23 @@
       },
       {
         "filename": "micro-bit.svg",
+        "variant": "default"
+      }
+    ]
+  },
+  {
+    "name": "Micro.blog",
+    "shortname": "microdotblog",
+    "url": "https://help.micro.blog",
+    "collection": "themed",
+    "source": "thesvg",
+    "files": [
+      {
+        "filename": "microdotblog-icon.svg",
+        "variant": "mono"
+      },
+      {
+        "filename": "microdotblog.svg",
         "variant": "default"
       }
     ]
@@ -78517,19 +78543,6 @@
     ]
   },
   {
-    "name": "Microsoft (Brand Kit)",
-    "shortname": "microsoft-brand-kit",
-    "url": "http://www.microsoft.com/",
-    "collection": "themed",
-    "source": "thesvg",
-    "files": [
-      {
-        "filename": "microsoft-wordmark.svg",
-        "variant": "wordmark"
-      }
-    ]
-  },
-  {
     "name": "Microsoft .NET",
     "shortname": "microsoft-dotnet",
     "url": "https://dotnet.microsoft.com",
@@ -78539,6 +78552,19 @@
       {
         "filename": "microsoft-dotnet.svg",
         "variant": "default"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft (Brand Kit)",
+    "shortname": "microsoft-brand-kit",
+    "url": "http://www.microsoft.com/",
+    "collection": "themed",
+    "source": "thesvg",
+    "files": [
+      {
+        "filename": "microsoft-wordmark.svg",
+        "variant": "wordmark"
       }
     ]
   },
@@ -81555,6 +81581,19 @@
     ]
   },
   {
+    "name": "Müller",
+    "shortname": "muller",
+    "url": "https://www.mueller.de",
+    "collection": "themed",
+    "source": "thesvg",
+    "files": [
+      {
+        "filename": "muller.svg",
+        "variant": "default"
+      }
+    ]
+  },
+  {
     "name": "Mullvad",
     "shortname": "mullvad",
     "url": "https://mullvad.net/press#logos",
@@ -81981,32 +82020,6 @@
       {
         "filename": "mysql-wordmarkLight.svg",
         "variant": "wordmarkLight"
-      }
-    ]
-  },
-  {
-    "name": "Métro de Paris",
-    "shortname": "metro-de-paris",
-    "url": "https://www.ratp.fr/se-deplacer/metro",
-    "collection": "themed",
-    "source": "thesvg",
-    "files": [
-      {
-        "filename": "metro-de-paris.svg",
-        "variant": "default"
-      }
-    ]
-  },
-  {
-    "name": "Müller",
-    "shortname": "muller",
-    "url": "https://www.mueller.de",
-    "collection": "themed",
-    "source": "thesvg",
-    "files": [
-      {
-        "filename": "muller.svg",
-        "variant": "default"
       }
     ]
   },
@@ -86471,6 +86484,19 @@
       },
       {
         "filename": "oauth-2.svg",
+        "variant": "default"
+      }
+    ]
+  },
+  {
+    "name": "ÖBB",
+    "shortname": "obb",
+    "url": "https://www.oebb.at",
+    "collection": "themed",
+    "source": "thesvg",
+    "files": [
+      {
+        "filename": "obb.svg",
         "variant": "default"
       }
     ]
@@ -103796,6 +103822,19 @@
     ]
   },
   {
+    "name": "RTÉ",
+    "shortname": "rte",
+    "url": "https://www.rte.ie",
+    "collection": "themed",
+    "source": "thesvg",
+    "files": [
+      {
+        "filename": "rte.svg",
+        "variant": "default"
+      }
+    ]
+  },
+  {
     "name": "RTL",
     "shortname": "rtl",
     "url": "https://www.rtl.de",
@@ -103855,19 +103894,6 @@
     "files": [
       {
         "filename": "azure-rtos.svg",
-        "variant": "default"
-      }
-    ]
-  },
-  {
-    "name": "RTÉ",
-    "shortname": "rte",
-    "url": "https://www.rte.ie",
-    "collection": "themed",
-    "source": "thesvg",
-    "files": [
-      {
-        "filename": "rte.svg",
         "variant": "default"
       }
     ]
@@ -105013,6 +105039,19 @@
     "files": [
       {
         "filename": "santander.svg",
+        "variant": "default"
+      }
+    ]
+  },
+  {
+    "name": "São Paulo Metro",
+    "shortname": "sao-paulo-metro",
+    "url": "https://www.metro.sp.gov.br",
+    "collection": "themed",
+    "source": "thesvg",
+    "files": [
+      {
+        "filename": "sao-paulo-metro.svg",
         "variant": "default"
       }
     ]
@@ -114634,19 +114673,6 @@
     ]
   },
   {
-    "name": "São Paulo Metro",
-    "shortname": "sao-paulo-metro",
-    "url": "https://www.metro.sp.gov.br",
-    "collection": "themed",
-    "source": "thesvg",
-    "files": [
-      {
-        "filename": "sao-paulo-metro.svg",
-        "variant": "default"
-      }
-    ]
-  },
-  {
     "name": "T3",
     "shortname": "t3",
     "url": "http://t3js.org/",
@@ -115752,6 +115778,19 @@
       },
       {
         "filename": "tele-5.svg",
+        "variant": "default"
+      }
+    ]
+  },
+  {
+    "name": "Télé-Québec",
+    "shortname": "tele-quebec",
+    "url": "https://www.telequebec.tv",
+    "collection": "themed",
+    "source": "thesvg",
+    "files": [
+      {
+        "filename": "tele-quebec.svg",
         "variant": "default"
       }
     ]
@@ -119519,31 +119558,13 @@
       {
         "filename": "triangles-2.svg",
         "variant": "default"
-      }
-    ]
-  },
-  {
-    "name": "Triangles Logo NonTypo",
-    "shortname": "triangles-logo-nontypo",
-    "url": "",
-    "collection": "simple",
-    "source": "gilbarbara",
-    "files": [
+      },
       {
-        "filename": "triangles-logo-nontypo.svg",
+        "filename": "triangles-brand-kit.svg",
         "variant": "default"
-      }
-    ]
-  },
-  {
-    "name": "Triangles Logo NonTypo",
-    "shortname": "triangles",
-    "url": "",
-    "collection": "simple",
-    "source": "gilbarbara",
-    "files": [
+      },
       {
-        "filename": "triangles.svg",
+        "filename": "triangles-brand-kit-2.svg",
         "variant": "default"
       }
     ]
@@ -120892,19 +120913,6 @@
       },
       {
         "filename": "typst.svg",
-        "variant": "default"
-      }
-    ]
-  },
-  {
-    "name": "Télé-Québec",
-    "shortname": "tele-quebec",
-    "url": "https://www.telequebec.tv",
-    "collection": "themed",
-    "source": "thesvg",
-    "files": [
-      {
-        "filename": "tele-quebec.svg",
         "variant": "default"
       }
     ]
@@ -130759,6 +130767,19 @@
     ]
   },
   {
+    "name": "Żabka",
+    "shortname": "zabka",
+    "url": "https://www.zabka.pl",
+    "collection": "themed",
+    "source": "thesvg",
+    "files": [
+      {
+        "filename": "zabka.svg",
+        "variant": "default"
+      }
+    ]
+  },
+  {
     "name": "Zaia Endless",
     "shortname": "zaia-endless",
     "url": "https://zaia.app/",
@@ -131940,45 +131961,6 @@
       },
       {
         "filename": "zyte.svg",
-        "variant": "default"
-      }
-    ]
-  },
-  {
-    "name": "Île-de-France Mobilités",
-    "shortname": "ile-de-france-mobilites",
-    "url": "https://www.iledefrance-mobilites.fr",
-    "collection": "themed",
-    "source": "thesvg",
-    "files": [
-      {
-        "filename": "ile-de-france-mobilites.svg",
-        "variant": "default"
-      }
-    ]
-  },
-  {
-    "name": "ÖBB",
-    "shortname": "obb",
-    "url": "https://www.oebb.at",
-    "collection": "themed",
-    "source": "thesvg",
-    "files": [
-      {
-        "filename": "obb.svg",
-        "variant": "default"
-      }
-    ]
-  },
-  {
-    "name": "Żabka",
-    "shortname": "zabka",
-    "url": "https://www.zabka.pl",
-    "collection": "themed",
-    "source": "thesvg",
-    "files": [
-      {
-        "filename": "zabka.svg",
         "variant": "default"
       }
     ]
