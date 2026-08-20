@@ -26147,6 +26147,19 @@
     ]
   },
   {
+    "name": "Beszel Light",
+    "shortname": "beszel-light",
+    "url": "",
+    "collection": "simple",
+    "source": "custom",
+    "files": [
+      {
+        "filename": "beszel-light.svg",
+        "variant": "default"
+      }
+    ]
+  },
+  {
     "name": "Bet365",
     "shortname": "bet365",
     "url": "https://www.bet365.com",
@@ -38886,67 +38899,6 @@
     "files": [
       {
         "filename": "k8s-daemonset.svg",
-        "variant": "default"
-      }
-    ]
-  },
-  {
-    "name": "Daeunassetlogo",
-    "shortname": "daeunassetlogo",
-    "url": "",
-    "collection": "simple",
-    "source": "custom",
-    "files": [
-      {
-        "filename": "daeunassetlogo.svg",
-        "variant": "default"
-      },
-      {
-        "filename": "daeunassetlogo-2.svg",
-        "variant": "default"
-      },
-      {
-        "filename": "daeunassetlogo-3.svg",
-        "variant": "default"
-      },
-      {
-        "filename": "daeunassetlogo-4.svg",
-        "variant": "default"
-      },
-      {
-        "filename": "daeunassetlogo-5.svg",
-        "variant": "default"
-      },
-      {
-        "filename": "daeunassetlogo-6.svg",
-        "variant": "default"
-      },
-      {
-        "filename": "daeunassetlogo-7.svg",
-        "variant": "default"
-      },
-      {
-        "filename": "daeunassetlogo-8.svg",
-        "variant": "default"
-      },
-      {
-        "filename": "daeunassetlogo-1.svg",
-        "variant": "default"
-      },
-      {
-        "filename": "daeunassetlogo-icon.svg",
-        "variant": "icon"
-      },
-      {
-        "filename": "daeunassetlogo-9.svg",
-        "variant": "default"
-      },
-      {
-        "filename": "daeunassetlogo-10.svg",
-        "variant": "default"
-      },
-      {
-        "filename": "daeunassetlogo-11.svg",
         "variant": "default"
       }
     ]
