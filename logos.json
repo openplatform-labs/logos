@@ -89093,27 +89093,18 @@
     ]
   },
   {
-    "name": "Oracle",
-    "shortname": "oracle",
-    "url": "https://www.oracle.com/database/",
-    "collection": "simple",
-    "source": "gilbarbara",
-    "files": [
-      {
-        "filename": "oracle.svg",
-        "variant": "default"
-      }
-    ]
-  },
-  {
     "name": "Oracle (2)",
     "shortname": "oracle-2",
     "url": "https://techicons.dev/icons/oracle",
-    "collection": "simple",
+    "collection": "themed",
     "source": "devicon",
     "files": [
       {
         "filename": "oracle-2.svg",
+        "variant": "default"
+      },
+      {
+        "filename": "oracle-2-2.svg",
         "variant": "default"
       }
     ]
