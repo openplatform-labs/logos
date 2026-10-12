@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="sd-title sd-description" version="1.1">
+<title id="sd-title">SigmaDrive</title>
+<desc id="sd-description">SigmaDrive 단색 심벌. 투명 배경.</desc>
+
+<g transform="translate(36 66.4) scale(1.6)"><g id="sd-symbol"><path id="sd-symbol-outline" d="M20 0 H166
+C230 0 275 48 275 118.5
+C275 187 230 237 166 237 H20
+C2 237 -6 219 7 205 L87 118.5 L6 33
+C-7 19 1 0 20 0 Z
+M94 48 H173
+C207 48 225 76 225 118.5
+C225 161 207 189 173 189 H94
+L148 131.5 C155 124 155 113 148 105.5 L94 48 Z" fill="#071B42" fill-rule="evenodd"/></g></g>
+</svg>
