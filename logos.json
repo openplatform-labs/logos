@@ -107659,6 +107659,10 @@
       {
         "filename": "sigmadrive-symbol-sigmadrive-logo-1.svg",
         "variant": "default"
+      },
+      {
+        "filename": "sigmadrive-symbol-1.svg",
+        "variant": "default"
       }
     ],
     "previewFilename": "sigmadrive-symbol-sigmadrive-logo-1.svg"
