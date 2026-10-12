@@ -107657,10 +107657,6 @@
     "source": "custom",
     "files": [
       {
-        "filename": "sigmadrive-symbol.svg",
-        "variant": "default"
-      },
-      {
         "filename": "sigmadrive-symbol-sigmadrive-logo-1.svg",
         "variant": "default"
       }
