@@ -107650,6 +107650,19 @@
     ]
   },
   {
+    "name": "SigmaDrive",
+    "shortname": "sigmadrive-symbol",
+    "url": "",
+    "collection": "simple",
+    "source": "custom",
+    "files": [
+      {
+        "filename": "sigmadrive-symbol.svg",
+        "variant": "default"
+      }
+    ]
+  },
+  {
     "name": "Signal",
     "shortname": "signal",
     "url": "https://signal.org/",
